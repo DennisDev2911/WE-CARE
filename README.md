@@ -8,3 +8,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 
 <img src="https://github.com/DennisDev2911/WE-CARE-Desafio-02-CSS-/blob/main/assets/WE%20CARE.JPG?raw=true" />
+<img src="https://github.com/DennisDev2911/WE-CARE-Desafio-02-CSS-/blob/main/Design%20sem%20nome%20(1).png?raw=true" />
