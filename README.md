@@ -5,6 +5,7 @@
 ## 💻 Projeto
 
 Este projeto é um tutorial que ensina a como criar um Lading Pages **WE CARE** ao usar _HTML_ e _CSS_.
+<p>Uma landing page, também conhecida como página de destino ou página de aterrissagem, é uma página web criada com o objetivo específico de converter visitantes em leads ou clientes.</p>
 
 ## 🚀 Tecnologias
 
