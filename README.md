@@ -32,5 +32,5 @@ Este projeto é um tutorial que ensina a como criar um Lading Pages **WE CARE** 
 
 
 
-<img src="https://github.com/DennisDev2911/WE-CARE-Desafio-02-CSS-/blob/main/assets/WE%20CARE.JPG?raw=true" />
+<img src="https://github.com/DennisDev2911/WE-CARE/blob/main/assets/we%20care%20pc.png?raw=true" />
 
